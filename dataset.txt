@@ -1,0 +1,7 @@
+The link to the dataset used for this project is given below. The dataset is divided into 5 classes named:
+  - Healthy
+  - Mild DR
+  - Moderate DR
+  - Proliferate DR
+  - Severe DR
+https://www.kaggle.com/datasets/sachinkumar413/diabetic-retinopathy-dataset
